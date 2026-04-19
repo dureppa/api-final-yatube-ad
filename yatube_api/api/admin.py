@@ -1,6 +1,5 @@
 from django.contrib import admin
 from posts.models import Follow
-from datatime import time
 
 
 @admin.register(Follow)
